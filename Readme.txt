@@ -9,6 +9,6 @@ This is my personal portfolio website built to showcase my:
 
 🚀 Built using: HTML, CSS, JavaScript  
 📱 Fully responsive across devices  
-🌐 Hosted on [GitHub Pages / Your Hosting Link]
+🌐 Hosted on [GitHub Pages ]
 
 Feel free to explore and connect!
